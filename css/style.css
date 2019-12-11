@@ -1,0 +1,11 @@
+.page-header .nav {
+	font-size: 12px;
+	line-height: 90px;
+	font-family: 'OpenSans', sans-serif;
+	font-weight: 700;
+	color: #6e7ea9;
+}
+
+a {
+	text-decoration: none;
+}
